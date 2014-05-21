@@ -30,7 +30,6 @@ public class MainActivity extends ActionBarActivity {
 	// numSstatus == 0: add number from the beginning
 	
 	protected int num1;
-	protected int num2;
 	
 	protected char operator = ' ';
 	// Here, you have to consider the illegal stuff
